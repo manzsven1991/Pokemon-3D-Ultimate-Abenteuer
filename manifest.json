@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Pokemon 3D Abenteuer",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Pokemon 3D Abenteuer",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
